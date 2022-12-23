@@ -16,3 +16,5 @@ My name is Cristian Bucci, I am a Full Stack Developer Jr from Rosario, Argentin
 <a href="https://www.instagram.com/cristian.bucci"/>
     <img height="50" src="https://user-images.githubusercontent.com/76186035/209374430-d6d01c5c-3c16-49a0-8e8c-9c4a1a5a6af2.png"/>
 </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloschivazappa&theme=midnight-purple)
