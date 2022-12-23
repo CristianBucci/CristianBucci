@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My name is Cristian Bucci, I am a Full Stack developer Jr from Rosario, Argentina.
+My name is Cristian Bucci, I am a Full Stack Developer Jr from Rosario, Argentina.
 
 ### Technologies ⚙
 
